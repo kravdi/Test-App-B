@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationB</string>
+    <string name="delete_fromDB">Ссылка удалена из БД</string>
+    <string name="check_connection">Проверьте интернет соединение</string>
+</resources>
